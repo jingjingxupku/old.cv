@@ -21,4 +21,40 @@
     </item>
     
   </channel>
+</rss> <title>A Skeleton-Based Model for Promoting Coherence Among Sentences in Narrative Story Generation</title>
+      <link>https://jingjingxupku.github.io/publication/skelton/</link>
+      <pubDate>Wed, 01 Aug 2018 00:00:00 +0800</pubDate>
+      
+      <guid>https://jingjingxupku.github.io/publication/skelton/</guid>
+      <description>Narrative story generation is a challenging problem because it demands the generated sentences with tight semantic connections, which has not been well studied by most existing generative models. To address this problem, we propose a skeleton-based model to promote the coherence of generated stories. Different from traditional models that generate a complete sentence at a stroke, the proposed model first generates the most critical phrases, called skeleton, and then expands the skeleton to a complete and fluent sentence.</description>
+    </item>
+    
+    <item>
+      <title>DP-GAN: A Diversity-Promoting Generative Adversarial Network for Generating Informative and Diversified Text</title>
+      <link>https://jingjingxupku.github.io/publication/dpgan/</link>
+      <pubDate>Wed, 01 Aug 2018 00:00:00 +0800</pubDate>
+      
+      <guid>https://jingjingxupku.github.io/publication/dpgan/</guid>
+      <description>Existing text generation methods tend to produce repeated and &amp;ldquo;boring&amp;rdquo; expressions. To tackle this problem, we propose a new text generation model, called Diversity-Promoting Generative Adversarial Network (DP-GAN). The proposed model assigns low reward for repeatedly generated text and high reward for &amp;ldquo;novel&amp;rdquo; and fluent text, encouraging the generator to produce diverse and informative text. Moreover, we propose a novel language model based discriminator, which can better distinguish novel text from repeated text without the saturation problem compared with existing classifier-based discriminators.</description>
+    </item>
+    
+    <item>
+      <title>Unpaired Sentiment-to-Sentiment Translation: A Cycled Reinforcement Learning Approach</title>
+      <link>https://jingjingxupku.github.io/publication/sentiment/</link>
+      <pubDate>Fri, 20 Jul 2018 00:00:00 +0800</pubDate>
+      
+      <guid>https://jingjingxupku.github.io/publication/sentiment/</guid>
+      <description>The goal of sentiment-to-sentiment “translation” is to change the underlying sentiment of a sentence while keeping its content. The main challenge is the lack of parallel data. To solve this problem, we propose a cycled reinforcement learning method that enables training on unpaired data by collaboration between a neutralization module and an emotionalization module. We evaluate our approach on two review datasets, Yelp and Amazon. Experimental results show that our approach significantly outperforms the state-of-the-art systems.</description>
+    </item>
+    
+    <item>
+      <title>Cross-Domain and Semi-Supervised Named Entity Recognition in Chinese Social Media: A Unified Model</title>
+      <link>https://jingjingxupku.github.io/publication/cross/</link>
+      <pubDate>Wed, 20 Jun 2018 00:00:00 +0800</pubDate>
+      
+      <guid>https://jingjingxupku.github.io/publication/cross/</guid>
+      <description>Named entity recognition (NER) in Chinese social media is an important, but challenging task because Chinese social media language is informal and noisy. Most previous methods on NER focus on in-domain supervised learning, which is limited by scarce annotated data in social media. In this paper, we present that sufficient corpora in formal domains and massive unannotated text can be combined to improve the NER performance in social media. We propose a unified model which can learn from out-of-domain corpora and in-domain unannotated text.</description>
+    </item>
+    
+  </channel>
 </rss>
