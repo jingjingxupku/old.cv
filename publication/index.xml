@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Publications on Jingjing Xu</title>
+    <link>https://jingjingxupku.github.io/publication/</link>
+    <description>Recent content in Publications on Jingjing Xu</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 31 Mar 2019 00:00:00 +0800</lastBuildDate>
+    
+	<atom:link href="https://jingjingxupku.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Review-Driven Multi-Label Music Style Classification by Exploiting Style Correlations</title>
+      <link>https://jingjingxupku.github.io/publication/review/</link>
+      <pubDate>Sun, 31 Mar 2019 00:00:00 +0800</pubDate>
+      
+      <guid>https://jingjingxupku.github.io/publication/review/</guid>
+      <description>This paper explores a new natural language processing task, review-driven multi-label music style classification. This task requires systems to identify multiple styles of music based on its reviews on websites. The biggest challenge lies in the complicated relations of music styles. To tackle this problem, we propose a novel deep learning approach to automatically learn and exploit style correlations. Experiment results show that our approach achieves large improvements over baselines on the proposed dataset.</description>
+    </item>
+    
+    <item>
+      <title>Training Simplification and Model Simplification for Deep Learning: A Minimal Effort Back Propagation Method</title>
+      <link>https://jingjingxupku.github.io/publication/my_pub1/</link>
+      <pubDate>Sat, 30 Mar 2019 00:00:00 +0800</pubDate>
+      
+      <guid>https://jingjingxupku.github.io/publication/my_pub1/</guid>
+      <description>We propose a simple yet effective technique to simplify the training and the resulting model of neural networks. In back propagation, only a small subset of the full gradient is computed to update the model parameters. The gradient vectors are sparsified in such a way that only the top-k elements (in terms of magnitude) are kept. As a result, only k rows or columns (depending on the layout) of the weight matrix are modified, leading to a linear reduction in the computational cost.</description>
+    </item>
+    
+    <item>
+      <title>A Skeleton-Based Model for Promoting Coherence Among Sentences in Narrative Story Generation</title>
+      <link>https://jingjingxupku.github.io/publication/skelton/</link>
+      <pubDate>Wed, 01 Aug 2018 00:00:00 +0800</pubDate>
+      
+      <guid>https://jingjingxupku.github.io/publication/skelton/</guid>
+      <description>Narrative story generation is a challenging problem because it demands the generated sentences with tight semantic connections, which has not been well studied by most existing generative models. To address this problem, we propose a skeleton-based model to promote the coherence of generated stories. Different from traditional models that generate a complete sentence at a stroke, the proposed model first generates the most critical phrases, called skeleton, and then expands the skeleton to a complete and fluent sentence.</description>
+    </item>
+    
+    <item>
+      <title>DP-GAN: A Diversity-Promoting Generative Adversarial Network for Generating Informative and Diversified Text</title>
+      <link>https://jingjingxupku.github.io/publication/dpgan/</link>
+      <pubDate>Wed, 01 Aug 2018 00:00:00 +0800</pubDate>
+      
+      <guid>https://jingjingxupku.github.io/publication/dpgan/</guid>
+      <description>Existing text generation methods tend to produce repeated and &amp;ldquo;boring&amp;rdquo; expressions. To tackle this problem, we propose a new text generation model, called Diversity-Promoting Generative Adversarial Network (DP-GAN). The proposed model assigns low reward for repeatedly generated text and high reward for &amp;ldquo;novel&amp;rdquo; and fluent text, encouraging the generator to produce diverse and informative text. Moreover, we propose a novel language model based discriminator, which can better distinguish novel text from repeated text without the saturation problem compared with existing classifier-based discriminators.</description>
+    </item>
+    
+    <item>
+      <title>An Auto-Encoder Matching Model for Learning Utterance-Level Semantic Dependency in Dialogue Generation</title>
+      <link>https://jingjingxupku.github.io/publication/aematch/</link>
+      <pubDate>Sat, 21 Jul 2018 00:00:00 +0800</pubDate>
+      
+      <guid>https://jingjingxupku.github.io/publication/aematch/</guid>
+      <description>Generating semantically coherent responses is still a major challenge in dialogue generation. Different from conventional text generation tasks, the mapping between inputs and responses in conversations is more complicated, which highly demands the understanding of utterance-level semantic dependency, a relation between the whole meanings of inputs and outputs. To address this problem, we propose an Auto-Encoder Matching (AEM) model to learn such dependency. The model contains two auto-encoders and one mapping module.</description>
+    </item>
+    
+    <item>
+      <title>Unpaired Sentiment-to-Sentiment Translation: A Cycled Reinforcement Learning Approach</title>
+      <link>https://jingjingxupku.github.io/publication/sentiment/</link>
+      <pubDate>Fri, 20 Jul 2018 00:00:00 +0800</pubDate>
+      
+      <guid>https://jingjingxupku.github.io/publication/sentiment/</guid>
+      <description>The goal of sentiment-to-sentiment “translation” is to change the underlying sentiment of a sentence while keeping its content. The main challenge is the lack of parallel data. To solve this problem, we propose a cycled reinforcement learning method that enables training on unpaired data by collaboration between a neutralization module and an emotionalization module. We evaluate our approach on two review datasets, Yelp and Amazon. Experimental results show that our approach significantly outperforms the state-of-the-art systems.</description>
+    </item>
+    
+    <item>
+      <title>Cross-Domain and Semi-Supervised Named Entity Recognition in Chinese Social Media: A Unified Model</title>
+      <link>https://jingjingxupku.github.io/publication/cross/</link>
+      <pubDate>Wed, 20 Jun 2018 00:00:00 +0800</pubDate>
+      
+      <guid>https://jingjingxupku.github.io/publication/cross/</guid>
+      <description>Named entity recognition (NER) in Chinese social media is an important, but challenging task because Chinese social media language is informal and noisy. Most previous methods on NER focus on in-domain supervised learning, which is limited by scarce annotated data in social media. In this paper, we present that sufficient corpora in formal domains and massive unannotated text can be combined to improve the NER performance in social media. We propose a unified model which can learn from out-of-domain corpora and in-domain unannotated text.</description>
+    </item>
+    
+    <item>
+      <title>Learning Sentiment Memories for Sentiment Modification without Parallel Data</title>
+      <link>https://jingjingxupku.github.io/publication/memory/</link>
+      <pubDate>Wed, 20 Jun 2018 00:00:00 +0800</pubDate>
+      
+      <guid>https://jingjingxupku.github.io/publication/memory/</guid>
+      <description>The task of sentiment modification requires reversing the sentiment of the input and preserving the sentiment-independent content. However, aligned sentences with the same content but different sentiments are usually unavailable. Due to the lack of such parallel data, it is hard to extract sentiment independent content and reverse the sentiment in an unsupervised way. Previous work usually can not reconcile sentiment transformation and content preservation. In this paper, motivated by the fact the non-emotional context (e.</description>
+    </item>
+    
+    <item>
+      <title>Improving Semantic Relevance for Sequence-to-Sequence Learning of Chinese Social Media Text Summarization</title>
+      <link>https://jingjingxupku.github.io/publication/summrization/</link>
+      <pubDate>Tue, 20 Jun 2017 00:00:00 +0800</pubDate>
+      
+      <guid>https://jingjingxupku.github.io/publication/summrization/</guid>
+      <description>Current Chinese social media text summarization models are based on an encoder-decoder framework. Although its generated summaries are similar to source texts literally, they have low semantic relevance. In this work, our goal is to improve semantic relevance between source texts and summaries for Chinese social media summarization. We introduce a Semantic Relevance Based neural model to encourage high semantic similarity between texts and summaries. In our model, the source text is represented by a gated attention encoder, while the summary representation is produced by a decoder.</description>
+    </item>
+    
+    <item>
+      <title>Transfer Deep Learning for Low-Resource Chinese Word Segmentation with a Novel Neural Network</title>
+      <link>https://jingjingxupku.github.io/publication/lowresource/</link>
+      <pubDate>Sat, 20 May 2017 00:00:00 +0800</pubDate>
+      
+      <guid>https://jingjingxupku.github.io/publication/lowresource/</guid>
+      <description>Recent studies have shown effectiveness in using neural networks for Chinese word segmentation. However, these models rely on large-scale data and are less effective for low-resource datasets because of insufficient training data. We propose a transfer learning method to improve low-resource word segmentation by leveraging high-resource corpora. First, we train a teacher model on high-resource corpora and then use the learned knowledge to initialize a student model. Second, a weighted data similarity method is proposed to train the student model on low-resource data.</description>
+    </item>
+    
+    <item>
+      <title>A Discourse-Level Named Entity Recognition and Relation Extraction Dataset for Chinese Literature Text</title>
+      <link>https://jingjingxupku.github.io/publication/discource/</link>
+      <pubDate>Thu, 20 Apr 2017 00:00:00 +0800</pubDate>
+      
+      <guid>https://jingjingxupku.github.io/publication/discource/</guid>
+      <description>Named Entity Recognition and Relation Extraction for Chinese literature text is regarded as the highly difficult problem, partially because of the lack of tagging sets. In this paper, we build a discourse-level dataset from hundreds of Chinese literature articles for improving this task. To build a high quality dataset, we propose two tagging methods to solve the problem of data inconsistency, including a heuristic tagging method and a machine auxiliary tagging method.</description>
+    </item>
+    
+    <item>
+      <title>Dependency-based Gated Recursive Neural Network for Chinese Word Segmentation</title>
+      <link>https://jingjingxupku.github.io/publication/first/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0800</pubDate>
+      
+      <guid>https://jingjingxupku.github.io/publication/first/</guid>
+      <description>Recently, many neural network models have been applied to Chinese word segmentation. However, such models focus more on collecting local information while long distance dependencies are not well learned. To integrate local features with long distance dependencies, we propose a dependency-based gated recursive neural network. Local features are first collected by bi-directional long short term memory network, then combined and refined to long distance dependencies via gated recursive neural network. Experimental results show that our model is a competitive model for Chinese word segmentation.</description>
+    </item>
+    
+  </channel>
+</rss>

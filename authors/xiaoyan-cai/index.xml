@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Xiaoyan Cai on Jingjing Xu</title>
+    <link>https://jingjingxupku.github.io/authors/xiaoyan-cai/</link>
+    <description>Recent content in Xiaoyan Cai on Jingjing Xu</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 01 Aug 2018 00:00:00 +0800</lastBuildDate>
+    
+	<atom:link href="https://jingjingxupku.github.io/authors/xiaoyan-cai/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>A Skeleton-Based Model for Promoting Coherence Among Sentences in Narrative Story Generation</title>
+      <link>https://jingjingxupku.github.io/publication/skelton/</link>
+      <pubDate>Wed, 01 Aug 2018 00:00:00 +0800</pubDate>
+      
+      <guid>https://jingjingxupku.github.io/publication/skelton/</guid>
+      <description>Narrative story generation is a challenging problem because it demands the generated sentences with tight semantic connections, which has not been well studied by most existing generative models. To address this problem, we propose a skeleton-based model to promote the coherence of generated stories. Different from traditional models that generate a complete sentence at a stroke, the proposed model first generates the most critical phrases, called skeleton, and then expands the skeleton to a complete and fluent sentence.</description>
+    </item>
+    
+    <item>
+      <title>Transfer Deep Learning for Low-Resource Chinese Word Segmentation with a Novel Neural Network</title>
+      <link>https://jingjingxupku.github.io/publication/lowresource/</link>
+      <pubDate>Sat, 20 May 2017 00:00:00 +0800</pubDate>
+      
+      <guid>https://jingjingxupku.github.io/publication/lowresource/</guid>
+      <description>Recent studies have shown effectiveness in using neural networks for Chinese word segmentation. However, these models rely on large-scale data and are less effective for low-resource datasets because of insufficient training data. We propose a transfer learning method to improve low-resource word segmentation by leveraging high-resource corpora. First, we train a teacher model on high-resource corpora and then use the learned knowledge to initialize a student model. Second, a weighted data similarity method is proposed to train the student model on low-resource data.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Junyang Lin on Jingjing Xu</title>
+    <link>https://jingjingxupku.github.io/authors/junyang-lin/</link>
+    <description>Recent content in Junyang Lin on Jingjing Xu</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 01 Aug 2018 00:00:00 +0800</lastBuildDate>
+    
+	<atom:link href="https://jingjingxupku.github.io/authors/junyang-lin/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>DP-GAN: A Diversity-Promoting Generative Adversarial Network for Generating Informative and Diversified Text</title>
+      <link>https://jingjingxupku.github.io/publication/dpgan/</link>
+      <pubDate>Wed, 01 Aug 2018 00:00:00 +0800</pubDate>
+      
+      <guid>https://jingjingxupku.github.io/publication/dpgan/</guid>
+      <description>Existing text generation methods tend to produce repeated and &amp;ldquo;boring&amp;rdquo; expressions. To tackle this problem, we propose a new text generation model, called Diversity-Promoting Generative Adversarial Network (DP-GAN). The proposed model assigns low reward for repeatedly generated text and high reward for &amp;ldquo;novel&amp;rdquo; and fluent text, encouraging the generator to produce diverse and informative text. Moreover, we propose a novel language model based discriminator, which can better distinguish novel text from repeated text without the saturation problem compared with existing classifier-based discriminators.</description>
+    </item>
+    
+    <item>
+      <title>An Auto-Encoder Matching Model for Learning Utterance-Level Semantic Dependency in Dialogue Generation</title>
+      <link>https://jingjingxupku.github.io/publication/aematch/</link>
+      <pubDate>Sat, 21 Jul 2018 00:00:00 +0800</pubDate>
+      
+      <guid>https://jingjingxupku.github.io/publication/aematch/</guid>
+      <description>Generating semantically coherent responses is still a major challenge in dialogue generation. Different from conventional text generation tasks, the mapping between inputs and responses in conversations is more complicated, which highly demands the understanding of utterance-level semantic dependency, a relation between the whole meanings of inputs and outputs. To address this problem, we propose an Auto-Encoder Matching (AEM) model to learn such dependency. The model contains two auto-encoders and one mapping module.</description>
+    </item>
+    
+  </channel>
+</rss>

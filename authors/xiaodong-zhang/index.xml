@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Xiaodong Zhang on Jingjing Xu</title>
+    <link>https://jingjingxupku.github.io/authors/xiaodong-zhang/</link>
+    <description>Recent content in Xiaodong Zhang on Jingjing Xu</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 20 Jul 2018 00:00:00 +0800</lastBuildDate>
+    
+	<atom:link href="https://jingjingxupku.github.io/authors/xiaodong-zhang/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Unpaired Sentiment-to-Sentiment Translation: A Cycled Reinforcement Learning Approach</title>
+      <link>https://jingjingxupku.github.io/publication/sentiment/</link>
+      <pubDate>Fri, 20 Jul 2018 00:00:00 +0800</pubDate>
+      
+      <guid>https://jingjingxupku.github.io/publication/sentiment/</guid>
+      <description>The goal of sentiment-to-sentiment “translation” is to change the underlying sentiment of a sentence while keeping its content. The main challenge is the lack of parallel data. To solve this problem, we propose a cycled reinforcement learning method that enables training on unpaired data by collaboration between a neutralization module and an emotionalization module. We evaluate our approach on two review datasets, Yelp and Amazon. Experimental results show that our approach significantly outperforms the state-of-the-art systems.</description>
+    </item>
+    
+  </channel>
+</rss>

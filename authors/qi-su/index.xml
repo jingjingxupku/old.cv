@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Qi Su on Jingjing Xu</title>
+    <link>https://jingjingxupku.github.io/authors/qi-su/</link>
+    <description>Recent content in Qi Su on Jingjing Xu</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 20 Jun 2017 00:00:00 +0800</lastBuildDate>
+    
+	<atom:link href="https://jingjingxupku.github.io/authors/qi-su/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Improving Semantic Relevance for Sequence-to-Sequence Learning of Chinese Social Media Text Summarization</title>
+      <link>https://jingjingxupku.github.io/publication/summrization/</link>
+      <pubDate>Tue, 20 Jun 2017 00:00:00 +0800</pubDate>
+      
+      <guid>https://jingjingxupku.github.io/publication/summrization/</guid>
+      <description>Current Chinese social media text summarization models are based on an encoder-decoder framework. Although its generated summaries are similar to source texts literally, they have low semantic relevance. In this work, our goal is to improve semantic relevance between source texts and summaries for Chinese social media summarization. We introduce a Semantic Relevance Based neural model to encourage high semantic similarity between texts and summaries. In our model, the source text is represented by a gated attention encoder, while the summary representation is produced by a decoder.</description>
+    </item>
+    
+    <item>
+      <title>A Discourse-Level Named Entity Recognition and Relation Extraction Dataset for Chinese Literature Text</title>
+      <link>https://jingjingxupku.github.io/publication/discource/</link>
+      <pubDate>Thu, 20 Apr 2017 00:00:00 +0800</pubDate>
+      
+      <guid>https://jingjingxupku.github.io/publication/discource/</guid>
+      <description>Named Entity Recognition and Relation Extraction for Chinese literature text is regarded as the highly difficult problem, partially because of the lack of tagging sets. In this paper, we build a discourse-level dataset from hundreds of Chinese literature articles for improving this task. To build a high quality dataset, we propose two tagging methods to solve the problem of data inconsistency, including a heuristic tagging method and a machine auxiliary tagging method.</description>
+    </item>
+    
+  </channel>
+</rss>

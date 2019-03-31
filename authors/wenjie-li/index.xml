@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Wenjie Li on Jingjing Xu</title>
+    <link>https://jingjingxupku.github.io/authors/wenjie-li/</link>
+    <description>Recent content in Wenjie Li on Jingjing Xu</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 20 Jul 2018 00:00:00 +0800</lastBuildDate>
+    
+	<atom:link href="https://jingjingxupku.github.io/authors/wenjie-li/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Unpaired Sentiment-to-Sentiment Translation: A Cycled Reinforcement Learning Approach</title>
+      <link>https://jingjingxupku.github.io/publication/sentiment/</link>
+      <pubDate>Fri, 20 Jul 2018 00:00:00 +0800</pubDate>
+      
+      <guid>https://jingjingxupku.github.io/publication/sentiment/</guid>
+      <description>The goal of sentiment-to-sentiment “translation” is to change the underlying sentiment of a sentence while keeping its content. The main challenge is the lack of parallel data. To solve this problem, we propose a cycled reinforcement learning method that enables training on unpaired data by collaboration between a neutralization module and an emotionalization module. We evaluate our approach on two review datasets, Yelp and Amazon. Experimental results show that our approach significantly outperforms the state-of-the-art systems.</description>
+    </item>
+    
+    <item>
+      <title>Improving Semantic Relevance for Sequence-to-Sequence Learning of Chinese Social Media Text Summarization</title>
+      <link>https://jingjingxupku.github.io/publication/summrization/</link>
+      <pubDate>Tue, 20 Jun 2017 00:00:00 +0800</pubDate>
+      
+      <guid>https://jingjingxupku.github.io/publication/summrization/</guid>
+      <description>Current Chinese social media text summarization models are based on an encoder-decoder framework. Although its generated summaries are similar to source texts literally, they have low semantic relevance. In this work, our goal is to improve semantic relevance between source texts and summaries for Chinese social media summarization. We introduce a Semantic Relevance Based neural model to encourage high semantic similarity between texts and summaries. In our model, the source text is represented by a gated attention encoder, while the summary representation is produced by a decoder.</description>
+    </item>
+    
+  </channel>
+</rss>

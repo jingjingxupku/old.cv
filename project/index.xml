@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects on Jingjing Xu</title>
+    <link>https://jingjingxupku.github.io/project/</link>
+    <description>Recent content in Projects on Jingjing Xu</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 25 Feb 2019 11:04:02 +0800</lastBuildDate>
+    
+	<atom:link href="https://jingjingxupku.github.io/project/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Pkuseg Toolkit</title>
+      <link>https://jingjingxupku.github.io/project/my-project-2/</link>
+      <pubDate>Mon, 25 Feb 2019 11:04:02 +0800</pubDate>
+      
+      <guid>https://jingjingxupku.github.io/project/my-project-2/</guid>
+      <description>A multi-domain Chinese word segmentation toolkit. link
+Highlights The pkuseg-python toolkit has the following features:
+ Supporting multi-domain Chinese word segmentation. Pkuseg-python supports multi-domain segmentation, including domains like news, web, medicine, and tourism. Users are free to choose different pre-trained models according to the domain features of the text to be segmented. If not sure the domain of the text, users are recommended to use the default model trained on mixed-domain data.</description>
+    </item>
+    
+    <item>
+      <title>JD Dialog Challenge</title>
+      <link>https://jingjingxupku.github.io/project/my-project-1/</link>
+      <pubDate>Wed, 31 Oct 2018 11:04:02 +0800</pubDate>
+      
+      <guid>https://jingjingxupku.github.io/project/my-project-1/</guid>
+      <description>In October 2018, we participated in JD Dialogue Challenge (JDDC), which is a task-oriented multi-turn dialogue challenge, and won the championship in the automatic evaluation and the second place in the manual evaluation. We also won the &amp;ldquo;Excellent Tutor Award&amp;rdquo; and the &amp;ldquo;Architecture Innovation Award&amp;rdquo;. Participants include Ruixuan Luo, Xuancheng Ren, Junyang Lin, Jingjing Xu, Shu Liu and so on. The instructor was Sun Xun.</description>
+    </item>
+    
+  </channel>
+</rss>

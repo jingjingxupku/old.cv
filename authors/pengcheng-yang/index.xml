@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Pengcheng Yang on Jingjing Xu</title>
+    <link>https://jingjingxupku.github.io/authors/pengcheng-yang/</link>
+    <description>Recent content in Pengcheng Yang on Jingjing Xu</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 20 Jun 2018 00:00:00 +0800</lastBuildDate>
+    
+	<atom:link href="https://jingjingxupku.github.io/authors/pengcheng-yang/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Learning Sentiment Memories for Sentiment Modification without Parallel Data</title>
+      <link>https://jingjingxupku.github.io/publication/memory/</link>
+      <pubDate>Wed, 20 Jun 2018 00:00:00 +0800</pubDate>
+      
+      <guid>https://jingjingxupku.github.io/publication/memory/</guid>
+      <description>The task of sentiment modification requires reversing the sentiment of the input and preserving the sentiment-independent content. However, aligned sentences with the same content but different sentiments are usually unavailable. Due to the lack of such parallel data, it is hard to extract sentiment independent content and reverse the sentiment in an unsupervised way. Previous work usually can not reconcile sentiment transformation and content preservation. In this paper, motivated by the fact the non-emotional context (e.</description>
+    </item>
+    
+  </channel>
+</rss>

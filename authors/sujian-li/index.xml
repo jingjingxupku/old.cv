@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Sujian Li on Jingjing Xu</title>
+    <link>https://jingjingxupku.github.io/authors/sujian-li/</link>
+    <description>Recent content in Sujian Li on Jingjing Xu</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 20 Jun 2018 00:00:00 +0800</lastBuildDate>
+    
+	<atom:link href="https://jingjingxupku.github.io/authors/sujian-li/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Cross-Domain and Semi-Supervised Named Entity Recognition in Chinese Social Media: A Unified Model</title>
+      <link>https://jingjingxupku.github.io/publication/cross/</link>
+      <pubDate>Wed, 20 Jun 2018 00:00:00 +0800</pubDate>
+      
+      <guid>https://jingjingxupku.github.io/publication/cross/</guid>
+      <description>Named entity recognition (NER) in Chinese social media is an important, but challenging task because Chinese social media language is informal and noisy. Most previous methods on NER focus on in-domain supervised learning, which is limited by scarce annotated data in social media. In this paper, we present that sufficient corpora in formal domains and massive unannotated text can be combined to improve the NER performance in social media. We propose a unified model which can learn from out-of-domain corpora and in-domain unannotated text.</description>
+    </item>
+    
+  </channel>
+</rss>
