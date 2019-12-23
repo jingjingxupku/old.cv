@@ -6,10 +6,19 @@
     <description>Recent content in Junyang Lin on Jingjing Xu</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 01 Aug 2018 00:00:00 +0800</lastBuildDate>
+    <lastBuildDate>Mon, 30 Sep 2019 00:00:00 +0800</lastBuildDate>
     
 	<atom:link href="https://jingjingxupku.github.io/authors/junyang-lin/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Understanding and Improving Layer Normalization</title>
+      <link>https://jingjingxupku.github.io/publication/neurips2019/</link>
+      <pubDate>Mon, 30 Sep 2019 00:00:00 +0800</pubDate>
+      
+      <guid>https://jingjingxupku.github.io/publication/neurips2019/</guid>
+      <description>Layer normalization (LayerNorm) is a technique to normalize the distributions of intermediate layers. It enables smoother gradients, faster training, and better generalization accuracy. However, it is still unclear where the effectiveness stems from. In this paper, our main contribution is to take a step further in understanding LayerNorm. Many of previous studies believe that the success of LayerNorm comes from forward normalization. Unlike them, we find that the derivatives of the mean and variance are more important than forward normalization by re-centering and re-scaling backward gradients.</description>
+    </item>
     
     <item>
       <title>DP-GAN: A Diversity-Promoting Generative Adversarial Network for Generating Informative and Diversified Text</title>

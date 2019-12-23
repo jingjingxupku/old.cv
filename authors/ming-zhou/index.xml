@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ming Zhou on Jingjing Xu</title>
+    <link>https://jingjingxupku.github.io/authors/ming-zhou/</link>
+    <description>Recent content in Ming Zhou on Jingjing Xu</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 31 Jul 2019 00:00:00 +0800</lastBuildDate>
+    
+	<atom:link href="https://jingjingxupku.github.io/authors/ming-zhou/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Asking Clarification Questions in Knowledge-Based Question Answering</title>
+      <link>https://jingjingxupku.github.io/publication/emnlpclarification/</link>
+      <pubDate>Wed, 31 Jul 2019 00:00:00 +0800</pubDate>
+      
+      <guid>https://jingjingxupku.github.io/publication/emnlpclarification/</guid>
+      <description>The ability to ask clarification questions is essential for knowledge-based question answering (KBQA) systems, especially for handling ambiguous phenomena. Despite its importance, clarification has not been well explored in current KBQA systems. Further progress requires supervised resources for training and evaluation, and powerful models for clarification-related text understanding and generation. In this paper, we construct a new clarification dataset, CLAQUA, with nearly 40K open-domain examples. The dataset supports three serial tasks: given a question, identify whether clarification is needed; if yes, generate a clarification question; then predict answers base on external user feedback.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -3,6 +3,30 @@
   
     <url>
     
+      <loc>https://jingjingxupku.github.io/publication/neurips2019/</loc>
+      <lastmod>2019-09-30T00:00:00+08:00</lastmod>
+    </url>
+  
+    <url>
+    
+      <loc>https://jingjingxupku.github.io/publication/emnlpclarification/</loc>
+      <lastmod>2019-07-31T00:00:00+08:00</lastmod>
+    </url>
+  
+    <url>
+    
+      <loc>https://jingjingxupku.github.io/publication/emnlplexical/</loc>
+      <lastmod>2019-07-31T00:00:00+08:00</lastmod>
+    </url>
+  
+    <url>
+    
+      <loc>https://jingjingxupku.github.io/publication/acl2019/</loc>
+      <lastmod>2019-06-30T00:00:00+08:00</lastmod>
+    </url>
+  
+    <url>
+    
       <loc>https://jingjingxupku.github.io/post/my-article-name1/</loc>
       <lastmod>2019-03-31T01:03:50+08:00</lastmod>
     </url>
@@ -111,7 +135,7 @@
     <url>
     
       <loc>https://jingjingxupku.github.io/authors/jingjing-xu/</loc>
-      <lastmod>2019-03-30T00:00:00+08:00</lastmod>
+      <lastmod>2019-06-30T00:00:00+08:00</lastmod>
       <priority>0</priority>
     </url>
   
@@ -152,7 +176,7 @@
     <url>
     
       <loc>https://jingjingxupku.github.io/authors/</loc>
-      <lastmod>2019-03-30T00:00:00+08:00</lastmod>
+      <lastmod>2019-06-30T00:00:00+08:00</lastmod>
       <priority>0</priority>
     </url>
   
@@ -171,6 +195,20 @@
   
     <url>
     
+      <loc>https://jingjingxupku.github.io/authors/duyu-tang/</loc>
+      <lastmod>2019-07-31T00:00:00+08:00</lastmod>
+      <priority>0</priority>
+    </url>
+  
+    <url>
+    
+      <loc>https://jingjingxupku.github.io/authors/guangxiang-zhao/</loc>
+      <lastmod>2019-09-30T00:00:00+08:00</lastmod>
+      <priority>0</priority>
+    </url>
+  
+    <url>
+    
       <loc>https://jingjingxupku.github.io/authors/guangxiang-zhao/</loc>
       <lastmod>2019-03-31T00:00:00+08:00</lastmod>
       <priority>0</priority>
@@ -180,6 +218,13 @@
     
       <loc>https://jingjingxupku.github.io/authors/hangfeng-he/</loc>
       <lastmod>2018-06-20T00:00:00+08:00</lastmod>
+      <priority>0</priority>
+    </url>
+  
+    <url>
+    
+      <loc>https://jingjingxupku.github.io/authors/hanqi-yan/</loc>
+      <lastmod>2019-07-31T00:00:00+08:00</lastmod>
       <priority>0</priority>
     </url>
   
@@ -200,14 +245,28 @@
     <url>
     
       <loc>https://jingjingxupku.github.io/</loc>
-      <lastmod>2019-03-31T01:03:50+08:00</lastmod>
+      <lastmod>2019-09-30T00:00:00+08:00</lastmod>
+      <priority>0</priority>
+    </url>
+  
+    <url>
+    
+      <loc>https://jingjingxupku.github.io/authors/jingjing-xu/</loc>
+      <lastmod>2019-09-30T00:00:00+08:00</lastmod>
       <priority>0</priority>
     </url>
   
     <url>
     
       <loc>https://jingjingxupku.github.io/authors/junyang-lin/</loc>
-      <lastmod>2018-08-01T00:00:00+08:00</lastmod>
+      <lastmod>2019-09-30T00:00:00+08:00</lastmod>
+      <priority>0</priority>
+    </url>
+  
+    <url>
+    
+      <loc>https://jingjingxupku.github.io/authors/liang-zhao/</loc>
+      <lastmod>2019-07-31T00:00:00+08:00</lastmod>
       <priority>0</priority>
     </url>
   
@@ -220,8 +279,22 @@
   
     <url>
     
+      <loc>https://jingjingxupku.github.io/authors/ming-zhou/</loc>
+      <lastmod>2019-07-31T00:00:00+08:00</lastmod>
+      <priority>0</priority>
+    </url>
+  
+    <url>
+    
+      <loc>https://jingjingxupku.github.io/authors/nan-duan/</loc>
+      <lastmod>2019-07-31T00:00:00+08:00</lastmod>
+      <priority>0</priority>
+    </url>
+  
+    <url>
+    
       <loc>https://jingjingxupku.github.io/authors/pengcheng-yang/</loc>
-      <lastmod>2018-06-20T00:00:00+08:00</lastmod>
+      <lastmod>2019-07-31T00:00:00+08:00</lastmod>
       <priority>0</priority>
     </url>
   
@@ -248,7 +321,7 @@
     <url>
     
       <loc>https://jingjingxupku.github.io/publication/</loc>
-      <lastmod>2019-03-31T00:00:00+08:00</lastmod>
+      <lastmod>2019-09-30T00:00:00+08:00</lastmod>
     </url>
   
     <url>
@@ -261,13 +334,20 @@
     <url>
     
       <loc>https://jingjingxupku.github.io/authors/qi-zeng/</loc>
-      <lastmod>2019-03-31T00:00:00+08:00</lastmod>
+      <lastmod>2019-07-31T00:00:00+08:00</lastmod>
       <priority>0</priority>
     </url>
   
     <url>
     
       <loc>https://jingjingxupku.github.io/talk/</loc>
+    </url>
+  
+    <url>
+    
+      <loc>https://jingjingxupku.github.io/authors/shengli-yan/</loc>
+      <lastmod>2019-06-30T00:00:00+08:00</lastmod>
+      <priority>0</priority>
     </url>
   
     <url>
@@ -293,7 +373,7 @@
     <url>
     
       <loc>https://jingjingxupku.github.io/authors/wei-li/</loc>
-      <lastmod>2019-03-30T00:00:00+08:00</lastmod>
+      <lastmod>2019-06-30T00:00:00+08:00</lastmod>
       <priority>0</priority>
     </url>
   
@@ -321,7 +401,7 @@
     <url>
     
       <loc>https://jingjingxupku.github.io/authors/xu-sun/</loc>
-      <lastmod>2019-03-31T00:00:00+08:00</lastmod>
+      <lastmod>2019-09-30T00:00:00+08:00</lastmod>
       <priority>0</priority>
     </url>
   
@@ -334,6 +414,13 @@
   
     <url>
     
+      <loc>https://jingjingxupku.github.io/authors/xu-sun/</loc>
+      <lastmod>2019-06-30T00:00:00+08:00</lastmod>
+      <priority>0</priority>
+    </url>
+  
+    <url>
+    
       <loc>https://jingjingxupku.github.io/authors/xuancheng-ren/</loc>
       <lastmod>2019-03-31T00:00:00+08:00</lastmod>
       <priority>0</priority>
@@ -348,8 +435,43 @@
   
     <url>
     
+      <loc>https://jingjingxupku.github.io/authors/yancheng-he/</loc>
+      <lastmod>2019-06-30T00:00:00+08:00</lastmod>
+      <priority>0</priority>
+    </url>
+  
+    <url>
+    
       <loc>https://jingjingxupku.github.io/authors/yi-zhang/</loc>
       <lastmod>2018-08-01T00:00:00+08:00</lastmod>
+      <priority>0</priority>
+    </url>
+  
+    <url>
+    
+      <loc>https://jingjingxupku.github.io/authors/yuechen-wang/</loc>
+      <lastmod>2019-07-31T00:00:00+08:00</lastmod>
+      <priority>0</priority>
+    </url>
+  
+    <url>
+    
+      <loc>https://jingjingxupku.github.io/authors/yun-liang/</loc>
+      <lastmod>2019-07-31T00:00:00+08:00</lastmod>
+      <priority>0</priority>
+    </url>
+  
+    <url>
+    
+      <loc>https://jingjingxupku.github.io/authors/yunfang-wu/</loc>
+      <lastmod>2019-06-30T00:00:00+08:00</lastmod>
+      <priority>0</priority>
+    </url>
+  
+    <url>
+    
+      <loc>https://jingjingxupku.github.io/authors/zhiyuan-zhang/</loc>
+      <lastmod>2019-09-30T00:00:00+08:00</lastmod>
       <priority>0</priority>
     </url>
   

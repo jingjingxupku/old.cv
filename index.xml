@@ -6,8 +6,48 @@
     <description>Recent content in Jingjing Xu on Jingjing Xu</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 31 Mar 2019 01:03:50 +0800</lastBuildDate>
+    <lastBuildDate>Mon, 30 Sep 2019 00:00:00 +0800</lastBuildDate>
     <atom:link href="/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Understanding and Improving Layer Normalization</title>
+      <link>https://jingjingxupku.github.io/publication/neurips2019/</link>
+      <pubDate>Mon, 30 Sep 2019 00:00:00 +0800</pubDate>
+      
+      <guid>https://jingjingxupku.github.io/publication/neurips2019/</guid>
+      <description>&lt;p&gt;Layer normalization (LayerNorm) is a technique to normalize the distributions of intermediate layers. It enables smoother gradients, faster training, and better generalization accuracy. However, it is still unclear where the effectiveness stems from. In this paper, our main contribution is to take a step further in understanding LayerNorm. Many of previous studies believe that the success of LayerNorm comes from forward normalization. Unlike them, we find that the derivatives of the mean and variance are more important than forward normalization by re-centering and re-scaling backward gradients. Furthermore, we find that the parameters of LayerNorm, including the bias and gain, increase the risk of over-fitting and do not work in most cases. Experiments show that a simple version of LayerNorm (LayerNorm-simple) without the bias and gain outperforms LayerNorm on four datasets. It obtains the state-of-the-art performance on En-Vi machine translation. To address the over-fitting problem, we propose a new normalization method, Adaptive Normalization (AdaNorm), by replacing the bias and gain with a new transformation function. Experiments show that AdaNorm demonstrates better results than LayerNorm on seven out of eight datasets.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Asking Clarification Questions in Knowledge-Based Question Answering</title>
+      <link>https://jingjingxupku.github.io/publication/emnlpclarification/</link>
+      <pubDate>Wed, 31 Jul 2019 00:00:00 +0800</pubDate>
+      
+      <guid>https://jingjingxupku.github.io/publication/emnlpclarification/</guid>
+      <description>&lt;p&gt;The ability to ask clarification questions is essential for knowledge-based question answering (KBQA) systems, especially for handling ambiguous phenomena. Despite its importance, clarification has not been well explored in current KBQA systems. Further progress requires supervised resources for training and evaluation, and powerful models for clarification-related text understanding and generation. In this paper, we construct a new clarification dataset, CLAQUA, with nearly 40K open-domain examples. The dataset supports three serial tasks: given a question, identify whether clarification is needed; if yes, generate a clarification question; then predict answers base on external user feedback. We provide representative baselines for these tasks and further introduce a coarse-to-fine model for clarification question generation. Experiments show that the proposed model achieves better performance than strong baselines. The further analysis demonstrates that our dataset brings new challenges and there still remain several unsolved problems, like reasonable automatic evaluation metrics for clarification question generation and powerful models for handling entity sparsity.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>LexicalAT: Lexical-Based Adversarial Reinforcement Training for Robust Sentiment Classification</title>
+      <link>https://jingjingxupku.github.io/publication/emnlplexical/</link>
+      <pubDate>Wed, 31 Jul 2019 00:00:00 +0800</pubDate>
+      
+      <guid>https://jingjingxupku.github.io/publication/emnlplexical/</guid>
+      <description>&lt;p&gt;Recent work has shown that current text classification models are fragile and sensitive to simple perturbations. In this work, we propose a novel adversarial training approach, LexicalAT, to improve the robustness of current classification models. The proposed approach consists of a generator and a classifier. The generator learns to generate examples to attack the classifier while the classifier learns to defend these attacks. Considering the diversity of attacks, the generator uses a large-scale lexical knowledge base, WordNet, to generate attacking examples by replacing some words in training examples with their synonyms (e.g., sad and unhappy), neighbor words (e.g., fox and wolf), or super-superior words (e.g., chair and armchair). Due to the discrete generation step in the generator, we use policy gradient, a reinforcement learning approach, to train the two modules. Experiments show LexicalAT outperforms strong baselines and reduces test errors on various neural networks, including CNN, RNN, and BERT.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Coherent Comments Generation for Chinese Articles with a Graph-to-Sequence Model</title>
+      <link>https://jingjingxupku.github.io/publication/acl2019/</link>
+      <pubDate>Sun, 30 Jun 2019 00:00:00 +0800</pubDate>
+      
+      <guid>https://jingjingxupku.github.io/publication/acl2019/</guid>
+      <description>&lt;p&gt;Automatic article commenting is helpful in encouraging user engagement and interaction on online news platforms. However, the news documents are usually too long for traditional encoder-decoder based models, which often results in general and irrelevant comments. In this paper, we propose to generate comments with a graph-to-sequence model that models the input news as a topic interaction graph. By organizing the article into graph structure, our model can better understand the internal structure of the article and the connection between topics, which makes it better able to understand the story. We collect and release a large scale news-comment corpus from a popular Chinese online news platform Tencent Kuaibao. Extensive experiment results show that our model can generate much more coherent and informative comments compared with several strong baseline models.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>My Article Name1</title>
@@ -198,59 +238,6 @@ systems. Especially, the proposed method
 substantially improves the content preservation performance. The BLEU score is
 improved from 1.64 to 22.46 and from
 0.56 to 14.06 on the two datasets, respectively.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Cross-Domain and Semi-Supervised Named Entity Recognition in Chinese Social Media: A Unified Model</title>
-      <link>https://jingjingxupku.github.io/publication/cross/</link>
-      <pubDate>Wed, 20 Jun 2018 00:00:00 +0800</pubDate>
-      
-      <guid>https://jingjingxupku.github.io/publication/cross/</guid>
-      <description>&lt;p&gt;Named entity recognition (NER) in Chinese social media is an important, but challenging task because Chinese social media language is informal and noisy. Most previous methods on NER focus on in-domain supervised learning, which is limited by scarce annotated data in social media. In this paper, we present that sufficient corpora in formal domains and massive unannotated text can be combined to improve the NER performance in social media. We propose a unified model which can learn from out-of-domain corpora and in-domain unannotated text. The unified model is composed of two parts. One is for cross-domain learning and the other is for semisupervised learning. Cross-domain learning can learn out-of-domain information based on domain similarity. Semisupervised learning can learn in-domain unannotated information by self-training. Experimental results show that our unified model yields a 9.57% improvement over strong baselines and achieves the state-of-the-art performance.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Learning Sentiment Memories for Sentiment Modification without Parallel Data</title>
-      <link>https://jingjingxupku.github.io/publication/memory/</link>
-      <pubDate>Wed, 20 Jun 2018 00:00:00 +0800</pubDate>
-      
-      <guid>https://jingjingxupku.github.io/publication/memory/</guid>
-      <description>&lt;p&gt;The task of sentiment modification requires reversing the sentiment of the input and preserving the sentiment-independent content. However, aligned sentences with the same content
-but different sentiments are usually unavailable. Due to the lack of such parallel data, it is
-hard to extract sentiment independent content
-and reverse the sentiment in an unsupervised
-way. Previous work usually can not reconcile
-sentiment transformation and content preservation. In this paper, motivated by the fact the
-non-emotional context (e.g., “staff”) provides
-strong cues for the occurrence of emotional
-words (e.g., “friendly”), we propose a novel
-method that automatically extracts appropriate
-sentiment information from learned sentiment
-memories according to specific context. Experiments show that our method substantially
-improves the content preservation degree and
-achieves the state-of-the-art performance.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Improving Semantic Relevance for Sequence-to-Sequence Learning of Chinese Social Media Text Summarization</title>
-      <link>https://jingjingxupku.github.io/publication/summrization/</link>
-      <pubDate>Tue, 20 Jun 2017 00:00:00 +0800</pubDate>
-      
-      <guid>https://jingjingxupku.github.io/publication/summrization/</guid>
-      <description>&lt;p&gt;Current Chinese social media text summarization models are based on an encoder-decoder framework. Although its generated summaries are similar to source texts literally, they have low semantic relevance. In this work, our goal is to improve semantic relevance between source texts and summaries for Chinese social media summarization. We introduce a Semantic Relevance Based neural model to encourage high semantic similarity between texts and summaries. In our model, the source text is represented by a gated attention encoder, while the summary representation is produced by a decoder. Besides, the similarity score between the representations is maximized during training. Our experiments show that the proposed model outperforms baseline systems on a social media corpus.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Transfer Deep Learning for Low-Resource Chinese Word Segmentation with a Novel Neural Network</title>
-      <link>https://jingjingxupku.github.io/publication/lowresource/</link>
-      <pubDate>Sat, 20 May 2017 00:00:00 +0800</pubDate>
-      
-      <guid>https://jingjingxupku.github.io/publication/lowresource/</guid>
-      <description>&lt;p&gt;Recent studies have shown effectiveness in using neural networks for Chinese word segmentation. However, these models rely on large-scale data and are less effective for low-resource datasets because of insufficient training data. We propose a transfer learning method to improve low-resource word segmentation by leveraging high-resource corpora. First, we train a teacher model on high-resource corpora and then use the learned knowledge to initialize a student model. Second, a weighted data similarity method is proposed to train the student model on low-resource data. Experiment results show that our work significantly improves the performance on low-resource datasets: 2.3% and 1.5% F-score on PKU and CTB datasets. Furthermore, this paper achieves state-of-the-art results: 96.1%, and 96.2% F-score on PKU and CTB datasets.&lt;/p&gt;
 </description>
     </item>
     

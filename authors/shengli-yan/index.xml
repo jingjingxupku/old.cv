@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Shengli Yan on Jingjing Xu</title>
+    <link>https://jingjingxupku.github.io/authors/shengli-yan/</link>
+    <description>Recent content in Shengli Yan on Jingjing Xu</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 30 Jun 2019 00:00:00 +0800</lastBuildDate>
+    
+	<atom:link href="https://jingjingxupku.github.io/authors/shengli-yan/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Coherent Comments Generation for Chinese Articles with a Graph-to-Sequence Model</title>
+      <link>https://jingjingxupku.github.io/publication/acl2019/</link>
+      <pubDate>Sun, 30 Jun 2019 00:00:00 +0800</pubDate>
+      
+      <guid>https://jingjingxupku.github.io/publication/acl2019/</guid>
+      <description>Automatic article commenting is helpful in encouraging user engagement and interaction on online news platforms. However, the news documents are usually too long for traditional encoder-decoder based models, which often results in general and irrelevant comments. In this paper, we propose to generate comments with a graph-to-sequence model that models the input news as a topic interaction graph. By organizing the article into graph structure, our model can better understand the internal structure of the article and the connection between topics, which makes it better able to understand the story.</description>
+    </item>
+    
+  </channel>
+</rss>
