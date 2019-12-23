@@ -78,12 +78,30 @@
     </item>
     
     <item>
+      <title>Pkuseg Toolkit</title>
+      <link>https://jingjingxupku.github.io/project/my-project-3/</link>
+      <pubDate>Mon, 25 Feb 2019 11:04:02 +0800</pubDate>
+      
+      <guid>https://jingjingxupku.github.io/project/my-project-3/</guid>
+      <description>
+
+&lt;p&gt;Commonsense Question Answering &lt;a href=&#34;https://arxiv.org/abs/1909.05311&#34; target=&#34;_blank&#34;&gt;link&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Commonsense question answering aims to answer questions which require background knowledge that is not explicitly expressed in the question. The key challenge is how to obtain evidence from external knowledge and make predictions based on the evidence. Recent works either learn to generate evidence from human-annotated evidence which is expensive to collect, or extract evidence from either structured or unstructured knowledge bases which fails to take advantages of both sources. In this work, we propose to automatically extract evidence from heterogeneous knowledge sources, and answer questions based on the extracted evidence. Specifically, we extract evidence from both structured knowledge base (i.e. ConceptNet) and Wikipedia plain texts. We construct graphs for both sources to obtain the relational structures of evidence. Based on these graphs, we propose a graph-based approach consisting of a graph-based contextual word representation learning module and a graph-based inference module. The first module utilizes graph structural information to re-define the distance between words for learning better contextual word representations. The second module adopts graph convolutional network to encode neighbor information into the representations of nodes, and aggregates evidence with graph attention mechanism for predicting the final answer. Experimental results on CommonsenseQA dataset illustrate that our graph-based approach over both knowledge sources brings improvement over strong baselines. Our approach achieves the state-of-the-art accuracy (75.3%) on the CommonsenseQA leaderboard.&lt;/p&gt;
+
+&lt;h2 id=&#34;authors&#34;&gt;Authors&lt;/h2&gt;
+
+&lt;p&gt;Shangwen Lv, Daya Guo, Jingjing Xu, Duyu Tang, Nan Duan, Ming Gong, Linjun Shou, Daxin Jiang, Guihong Cao, Songlin Hu&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>JD Dialog Challenge</title>
       <link>https://jingjingxupku.github.io/project/my-project-1/</link>
       <pubDate>Wed, 31 Oct 2018 11:04:02 +0800</pubDate>
       
       <guid>https://jingjingxupku.github.io/project/my-project-1/</guid>
-      <description>&lt;p&gt;In October 2018, we participated in JD Dialogue Challenge (JDDC), which is a task-oriented multi-turn dialogue challenge, and won the &lt;strong&gt;championship in the automatic evaluation and the second place in the manual evaluation&lt;/strong&gt;. We also won the &amp;ldquo;Excellent Tutor Award&amp;rdquo; and the &amp;ldquo;Architecture Innovation Award&amp;rdquo;. Participants include Ruixuan Luo, Xuancheng Ren, Junyang Lin, Jingjing Xu, Shu Liu and so on. The instructor was Xu Sun.&lt;/p&gt;
+      <description>&lt;p&gt;In October 2018, we participated in JD Dialogue Challenge (JDDC), which is a task-oriented multi-turn dialogue challenge, and won the &lt;strong&gt;championship in the automatic evaluation and the second place in the manual evaluation&lt;/strong&gt;. We also won the &amp;ldquo;Excellent Tutor Award&amp;rdquo; and the &amp;ldquo;Architecture Innovation Award&amp;rdquo;. Participants include Ruixuan Luo, Xuancheng Ren, Junyang Lin, Jingjing Xu, Shu Liu and so on. The instructor is Xu Sun.&lt;/p&gt;
 </description>
     </item>
     
@@ -233,16 +251,6 @@ achieves the state-of-the-art performance.&lt;/p&gt;
       
       <guid>https://jingjingxupku.github.io/publication/lowresource/</guid>
       <description>&lt;p&gt;Recent studies have shown effectiveness in using neural networks for Chinese word segmentation. However, these models rely on large-scale data and are less effective for low-resource datasets because of insufficient training data. We propose a transfer learning method to improve low-resource word segmentation by leveraging high-resource corpora. First, we train a teacher model on high-resource corpora and then use the learned knowledge to initialize a student model. Second, a weighted data similarity method is proposed to train the student model on low-resource data. Experiment results show that our work significantly improves the performance on low-resource datasets: 2.3% and 1.5% F-score on PKU and CTB datasets. Furthermore, this paper achieves state-of-the-art results: 96.1%, and 96.2% F-score on PKU and CTB datasets.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>A Discourse-Level Named Entity Recognition and Relation Extraction Dataset for Chinese Literature Text</title>
-      <link>https://jingjingxupku.github.io/publication/discource/</link>
-      <pubDate>Thu, 20 Apr 2017 00:00:00 +0800</pubDate>
-      
-      <guid>https://jingjingxupku.github.io/publication/discource/</guid>
-      <description>&lt;p&gt;Named Entity Recognition and Relation Extraction for Chinese literature text is regarded as the highly difficult problem, partially because of the lack of tagging sets. In this paper, we build a discourse-level dataset from hundreds of Chinese literature articles for improving this task. To build a high quality dataset, we propose two tagging methods to solve the problem of data inconsistency, including a heuristic tagging method and a machine auxiliary tagging method. Based on this corpus, we also introduce several widely used models to conduct experiments. Experimental results not only show the usefulness of the proposed dataset, but also provide baselines for further research.&lt;/p&gt;
 </description>
     </item>
     
