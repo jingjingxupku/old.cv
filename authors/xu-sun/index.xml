@@ -1,32 +1,36 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Xu Sun on Jingjing Xu</title>
+    <title>Xu Sun* on Jingjing Xu</title>
     <link>https://jingjingxupku.github.io/authors/xu-sun/</link>
-    <description>Recent content in Xu Sun on Jingjing Xu</description>
+    <description>Recent content in Xu Sun* on Jingjing Xu</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 30 Sep 2019 00:00:00 +0800</lastBuildDate>
+    <lastBuildDate>Sat, 30 Mar 2019 00:00:00 +0800</lastBuildDate>
     
 	<atom:link href="https://jingjingxupku.github.io/authors/xu-sun/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Understanding and Improving Layer Normalization</title>
-      <link>https://jingjingxupku.github.io/publication/neurips2019/</link>
-      <pubDate>Mon, 30 Sep 2019 00:00:00 +0800</pubDate>
+      <title>Training Simplification and Model Simplification for Deep Learning: A Minimal Effort Back Propagation Method</title>
+      <link>https://jingjingxupku.github.io/publication/my_pub1/</link>
+      <pubDate>Sat, 30 Mar 2019 00:00:00 +0800</pubDate>
       
-      <guid>https://jingjingxupku.github.io/publication/neurips2019/</guid>
-      <description>Layer normalization (LayerNorm) is a technique to normalize the distributions of intermediate layers. It enables smoother gradients, faster training, and better generalization accuracy. However, it is still unclear where the effectiveness stems from. In this paper, our main contribution is to take a step further in understanding LayerNorm. Many of previous studies believe that the success of LayerNorm comes from forward normalization. Unlike them, we find that the derivatives of the mean and variance are more important than forward normalization by re-centering and re-scaling backward gradients.</description>
+      <guid>https://jingjingxupku.github.io/publication/my_pub1/</guid>
+      <description>We propose a simple yet effective technique to simplify the training and the resulting model of neural networks. In back propagation, only a small subset of the full gradient is computed to update the model parameters. The gradient vectors are sparsified in such a way that only the top-k elements (in terms of magnitude) are kept. As a result, only k rows or columns (depending on the layout) of the weight matrix are modified, leading to a linear reduction in the computational cost.</description>
     </item>
     
     <item>
-      <title>Asking Clarification Questions in Knowledge-Based Question Answering</title>
-      <link>https://jingjingxupku.github.io/publication/emnlpclarification/</link>
-      <pubDate>Wed, 31 Jul 2019 00:00:00 +0800</pubDate>
+      <title>Unpaired Sentiment-to-Sentiment Translation: A Cycled Reinforcement Learning Approach</title>
+      <link>https://jingjingxupku.github.io/publication/sentiment/</link>
+      <pubDate>Fri, 20 Jul 2018 00:00:00 +0800</pubDate>
       
-      <guid>https://jingjingxupku.github.io/publication/emnlpclarification/</guid>
-      <description>The ability to ask clarification questions is essential for knowledge-based question answering (KBQA) systems, especially for handling ambiguous phenomena. Despite its importance, clarification has not been well explored in current KBQA systems. Further progress requires supervised resources for training and evaluation, and powerful models for clarification-related text understanding and generation. In this paper, we construct a new clarification dataset, CLAQUA, with nearly 40K open-domain examples. The dataset supports three serial tasks: given a question, identify whether clarification is needed; if yes, generate a clarification question; then predict answers base on external user feedback.</description>
+      <guid>https://jingjingxupku.github.io/publication/sentiment/</guid>
+      <description>The goal of sentiment-to-sentiment “translation” is to change the underlying sentiment of a sentence while keeping its content. The main challenge is the lack of parallel data. To solve this problem, we propose a cycled reinforcement learning method that enables training on unpaired data by collaboration between a neutralization module and an emotionalization module. We evaluate our approach on two review datasets, Yelp and Amazon. Experimental results show that our approach significantly outperforms the state-of-the-art systems.</description>
+    </item>
+    
+  </channel>
+</rss>three serial tasks: given a question, identify whether clarification is needed; if yes, generate a clarification question; then predict answers base on external user feedback.</description>
     </item>
     
     <item>
