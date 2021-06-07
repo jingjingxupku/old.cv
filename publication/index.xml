@@ -6,46 +6,10 @@
     <description>Recent content in Publications on Jingjing Xu</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 30 Sep 2019 00:00:00 +0800</lastBuildDate>
+    <lastBuildDate>Sun, 31 Mar 2019 00:00:00 +0800</lastBuildDate>
     
 	<atom:link href="https://jingjingxupku.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>Understanding and Improving Layer Normalization</title>
-      <link>https://jingjingxupku.github.io/publication/neurips2019/</link>
-      <pubDate>Mon, 30 Sep 2019 00:00:00 +0800</pubDate>
-      
-      <guid>https://jingjingxupku.github.io/publication/neurips2019/</guid>
-      <description>Layer normalization (LayerNorm) is a technique to normalize the distributions of intermediate layers. It enables smoother gradients, faster training, and better generalization accuracy. However, it is still unclear where the effectiveness stems from. In this paper, our main contribution is to take a step further in understanding LayerNorm. Many of previous studies believe that the success of LayerNorm comes from forward normalization. Unlike them, we find that the derivatives of the mean and variance are more important than forward normalization by re-centering and re-scaling backward gradients.</description>
-    </item>
-    
-    <item>
-      <title>Asking Clarification Questions in Knowledge-Based Question Answering</title>
-      <link>https://jingjingxupku.github.io/publication/emnlpclarification/</link>
-      <pubDate>Wed, 31 Jul 2019 00:00:00 +0800</pubDate>
-      
-      <guid>https://jingjingxupku.github.io/publication/emnlpclarification/</guid>
-      <description>The ability to ask clarification questions is essential for knowledge-based question answering (KBQA) systems, especially for handling ambiguous phenomena. Despite its importance, clarification has not been well explored in current KBQA systems. Further progress requires supervised resources for training and evaluation, and powerful models for clarification-related text understanding and generation. In this paper, we construct a new clarification dataset, CLAQUA, with nearly 40K open-domain examples. The dataset supports three serial tasks: given a question, identify whether clarification is needed; if yes, generate a clarification question; then predict answers base on external user feedback.</description>
-    </item>
-    
-    <item>
-      <title>LexicalAT: Lexical-Based Adversarial Reinforcement Training for Robust Sentiment Classification</title>
-      <link>https://jingjingxupku.github.io/publication/emnlplexical/</link>
-      <pubDate>Wed, 31 Jul 2019 00:00:00 +0800</pubDate>
-      
-      <guid>https://jingjingxupku.github.io/publication/emnlplexical/</guid>
-      <description>Recent work has shown that current text classification models are fragile and sensitive to simple perturbations. In this work, we propose a novel adversarial training approach, LexicalAT, to improve the robustness of current classification models. The proposed approach consists of a generator and a classifier. The generator learns to generate examples to attack the classifier while the classifier learns to defend these attacks. Considering the diversity of attacks, the generator uses a large-scale lexical knowledge base, WordNet, to generate attacking examples by replacing some words in training examples with their synonyms (e.</description>
-    </item>
-    
-    <item>
-      <title>Coherent Comments Generation for Chinese Articles with a Graph-to-Sequence Model</title>
-      <link>https://jingjingxupku.github.io/publication/acl2019/</link>
-      <pubDate>Sun, 30 Jun 2019 00:00:00 +0800</pubDate>
-      
-      <guid>https://jingjingxupku.github.io/publication/acl2019/</guid>
-      <description>Automatic article commenting is helpful in encouraging user engagement and interaction on online news platforms. However, the news documents are usually too long for traditional encoder-decoder based models, which often results in general and irrelevant comments. In this paper, we propose to generate comments with a graph-to-sequence model that models the input news as a topic interaction graph. By organizing the article into graph structure, our model can better understand the internal structure of the article and the connection between topics, which makes it better able to understand the story.</description>
-    </item>
     
     <item>
       <title>Review-Driven Multi-Label Music Style Classification by Exploiting Style Correlations</title>
